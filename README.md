@@ -1,4 +1,4 @@
-# We.Travel1
+# We.Travel
 Mobile iOS application to coordinate vacations, built with a group of students at the University of Southern California.
 
 I handeled backend development, as well as project management throught the course of development. Specifically on the backend,
